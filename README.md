@@ -3,8 +3,8 @@ Asignatura: Fundamentos de Programación Orientada a Eventos
 Institución: Universidad del Valle
 
 Integrantes del Grupo:
-Santiago Suárez Ochoa - Código: 2538883 - Usuario Github: suaga84
-Gabriel Fernando Popayán - Código: 2540584 - Usuario Github: Gabriel Popayan
+1.Santiago Suárez Ochoa - Código: 2538883 - Usuario Github: suaga84
+2.Gabriel Fernando Popayán - Código: 2540584 - Usuario Github: Gabriel Popayan
 
 Descripción del proyecto:
 Programa desarrollado en el lenguaje de programación Java y JavaFX siguiendo el modelo MVC (modelo, vista, controlador).
