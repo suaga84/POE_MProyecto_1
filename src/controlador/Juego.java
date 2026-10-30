@@ -62,9 +62,6 @@ public class Juego {
     //Repartir las 2 cartas iniciales al jugador
     this.manoJugador.agregarCarta(mazo.repartirCarta());
     this.manoJugador.agregarCarta(mazo.repartirCarta());
-    // error de turnos:
-    this.manoComputador.agregarCarta(mazo.repartirCarta());
-    this.manoComputador.agregarCarta(mazo.repartirCarta());
 
     this.estadoTurno = EstadoTurno.TURNO_JUGADOR; //le da el turno al jugador despues de repartir las cartas
    
